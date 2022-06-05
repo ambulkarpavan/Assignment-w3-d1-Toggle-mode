@@ -1,0 +1,50 @@
+
+.home{
+    display: flex;
+    gap: 30px;
+    /* background-color: rgb(228, 233, 237); */
+
+   
+
+}
+
+.sidebar{
+    /* border: 1px solid red; */
+    /* background-color: white; */
+    width: 8%; 
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 150px;
+
+}
+
+.infomain{
+    /* border:1px solid; */
+    margin-top: 30px;
+    padding: 10px;
+    /* background-color: white; */
+   
+}
+
+.info{
+    /* border:1px solid; */
+    margin-top: 10px;
+    padding: 10px;
+    border-bottom: 1px solid grey;
+   
+}
+.info1{
+    /* border:1px solid; */
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    /* padding: 20px; */
+}
+.info2{
+    /* border:1px solid; */
+    width: 100%;
+    display: flex;
+  gap: 20px;
+    padding: 20px;
+}
